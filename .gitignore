@@ -1,0 +1,18 @@
+# Node
+node_modules/
+npm-debug.log*
+
+# Data - لا ترفعش البيانات الحساسة على GitHub
+data/auth.json
+data/state.json
+data/state.json.prev
+data/backups/
+data/FIRST-ADMIN.txt
+
+# Windows
+*.bat
+Thumbs.db
+desktop.ini
+
+# Logs
+*.log
